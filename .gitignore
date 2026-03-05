@@ -1,0 +1,11 @@
+# Local terraform directories
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.tfvars.json
+
+# Private keys
+terra-key
+terra-key.pub
+*.pem
